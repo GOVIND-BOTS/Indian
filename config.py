@@ -47,7 +47,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME","parimusic"
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.https://github.com/GOVIND-BOTS/Indian/blob/master/config.py",
+    "https://github.com/GOVIND-BOTS/Indian",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master"
 
