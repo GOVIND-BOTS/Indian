@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001892007985")
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Govind music"=
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Govind music")
 
 # Your User ID.
 OWNER_ID = list(
