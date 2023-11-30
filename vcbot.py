@@ -4,7 +4,7 @@ import os
 import sys
 import json
 import time
-import aiofiles
+import TelethonHell
 import aiohttp
 import ffmpeg
 import requests
